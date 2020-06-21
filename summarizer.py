@@ -6,10 +6,6 @@ import heapq
 import smtplib
 
 
-#Links that we used to help us get an introduction
-#https://stackabuse.com/text-summarization-with-nltk-in-python/
-#https://stackabuse.com/how-to-send-emails-with-gmail-using-python/
-#summary variable
 summary = ""
 
 """clean up double spaces and brackets for sentence tokinization"""
